@@ -81,7 +81,7 @@ const LoginForm = () => {
 
           <Button
             type="submit"
-            className="w-full bg-motopase-primary hover:bg-motopase-primary/90 text-white"
+            className="w-full bg-motopase-primary hover:bg-motopase-primary/90 text-[#262626]"
           >
             Iniciar Sesión
           </Button>
