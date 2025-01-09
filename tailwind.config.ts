@@ -25,7 +25,7 @@ export default {
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         motopase: {
-          primary: "#56e713",
+          primary: "#4ece12",
           secondary: "#a2a7a0",
         },
         primary: {
