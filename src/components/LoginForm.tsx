@@ -30,7 +30,7 @@ const LoginForm = () => {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-motopase-secondary/20 to-motopase-primary/20">
+    <div className="min-h-screen flex items-center justify-center bg-[#F2FCE2]">
       <div className="w-full max-w-md p-8 space-y-6 bg-white rounded-xl shadow-lg animate-fadeIn">
         <div className="text-center space-y-2">
           <h1 className="text-3xl font-bold text-gray-900">MotoPase</h1>
