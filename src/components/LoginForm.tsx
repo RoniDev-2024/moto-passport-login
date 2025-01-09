@@ -88,7 +88,7 @@ const LoginForm = () => {
         </form>
 
         <div className="text-center">
-          <a href="#" className="text-sm text-motopase-primary hover:underline">
+          <a href="#" className="text-sm text-[#262626] hover:underline">
             ¿Olvidó su contraseña?
           </a>
         </div>
